@@ -16,3 +16,27 @@ const LongestWord = (str) => {
 
 const str = "daily problem solving with javaScript";
 LongestWord(str);
+
+//
+
+
+// const longestWD=(str1)=>{
+// let word=str1.split(' ')
+// let size=0;
+// let max=['']
+// for(let i=0;i<str1.length;i++){
+
+//   if(arr[i].length>size){
+//     size=arr[i].length;
+    
+//   }
+
+// }
+
+// return size;
+
+
+// }
+
+// const str1='hello i am your sizeksdfjalj';
+// console.log(longestWD(str1));
